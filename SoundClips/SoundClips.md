@@ -1,3 +1,3 @@
 # These are some sound clips
 
-Each folder is for a different RPM threshhold
+Each folder is for a different RMS threshhold
