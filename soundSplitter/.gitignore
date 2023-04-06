@@ -1,0 +1,4 @@
+*.wav
+*.m4a
+slicedAudio/*.wav
+slicedAudio/*.m4a
