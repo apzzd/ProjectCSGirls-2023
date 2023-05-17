@@ -13,5 +13,5 @@ def sliceWav(segLength, fileName):
     		chunk.export(chunk_name, format="wav")
 
 
-for fname in ["Morning1", "Morning2", "Afternoon2", "Night1", "Night2"]:
-	sliceWav(4, fname)
+input = input("File name:	")
+sliceWav(4, input)
